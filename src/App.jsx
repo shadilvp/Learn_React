@@ -21,9 +21,9 @@
 // import Store from "./examples/LogIn&LogOut/Store";
 // import Example from "./Hooks/CustomeHooks/Example";
 // import MemoParent from "./Memos/ReactMemo/Parent";
-
 // import HoverCount from "./HigherOrderComponents/HoverCount";
-import WithCounter from "./HigherOrderComponents/parent";
+// import WithCounter from "./HigherOrderComponents/parent";
+import LocalStorage from "./LocalStorage/LocalStorage";
 
 
 function App() {
@@ -82,9 +82,11 @@ function App() {
 
     {/* <MemoParent/> */}
 
-    <WithCounter/>
+    {/* <WithCounter/> */}
 
     {/* <HoverCount/> */}
+
+    <LocalStorage/>
 
     </>
     
