@@ -1,0 +1,28 @@
+.count {
+    width: 30%;
+    border: 3px solid black;
+    font-size: 2rem;
+    
+  }
+  .count-reset {
+    border: none;
+    background-color: aqua;
+    color: rgb(9, 0, 0);
+    padding: 10px;
+    margin: 5px;
+  }
+  .count-increment{
+    border: none;
+    background-color: aqua;
+    color: black;
+    padding: 10px;
+    margin: 5px;
+  }
+  .count-decrement{
+    border: none;
+    background-color: aqua;
+    color: black;
+    padding: 10px;
+    margin: 5px;
+  }
+  
